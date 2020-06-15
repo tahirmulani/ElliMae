@@ -1,1 +1,2 @@
-Search country by name and minimum population
+This is working console application which accept country name string and minimum poplation and return count of countries result
+Search country count by name and minimum population.
